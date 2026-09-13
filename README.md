@@ -30,5 +30,5 @@ If you wish to contribute to this project, please keep the following in mind:
 
 ## Live View: 
 You can see the work over at the following links:
-- https://hbidamian.github.io/LegacyPocketMine/
-- https://hbidamian.github.io/LegacyPocketMine/servers.html
+- [https://celtictrinculo.github.io/LegacyPocketMine/](https://celtictrinculo.github.io/LegacyPocketMine/)
+- [https://celtictrinculo.github.io/LegacyPocketMine/servers.html](https://celtictrinculo.github.io/LegacyPocketMine/servers.html)
